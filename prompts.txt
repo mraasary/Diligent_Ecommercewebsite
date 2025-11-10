@@ -1,0 +1,9 @@
+Task: Create a minimal e-commerce website enabling users to explore products, view details, and manage a shopping cart.
+
+Prompts used to generate code and docs:
+
+1) Project scaffold prompt
+"Create a minimal full-stack project: a Node.js + Express backend exposing /api/products and /api/products/:id using in-memory JSON sample data, and a React frontend using React Router that displays a product list, product details, and a client-side cart (add/remove). Include package.json for both, and README with quick start. Keep implementation minimal and easy to run locally."
+
+2) Architecture prompt
+"Write a short technical architecture doc for a MERN-style minimal e-commerce app that uses React frontend, Express backend, and optional MongoDB Atlas; note endpoints, dataflow, and deployment suggestions."
